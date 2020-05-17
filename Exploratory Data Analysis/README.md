@@ -11,6 +11,7 @@ Changes you have to made while using your own dataset:
 All the exploratory Data Analysis is done regarding the dataset available, Some techniques and manipulations will be changed according to change in data.
 
 Some of the plots are shown below:
+![Violinplot](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Exploratory%20Data%20Analysis/Violinplot.PNG)
 ![Jointplot](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Exploratory%20Data%20Analysis/Jointplot.PNG)
 ![Boxplot](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Exploratory%20Data%20Analysis/Boxplot.PNG)
-![Violinplot](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Exploratory%20Data%20Analysis/Violinplot.PNG)
+
