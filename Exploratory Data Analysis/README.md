@@ -1,4 +1,4 @@
-This course contains some basic plotting techniques using seaborn library of python for plotting the graph, namely Box plots, Violin plots, Count plots, Joint plots, Swarm plots and Heatmaps.
+This notebook contains some basic plotting techniques using seaborn library of python for plotting the graph, namely Box plots, Violin plots, Count plots, Joint plots, Swarm plots and Heatmaps.
 
 All the various plotting techinques with their examples are described in the notebook, additionally comments are also added to help the reader to understand various plotting techniques. All the example data is given along with the notebook, but you can run the notebook locally with your own data.
 
