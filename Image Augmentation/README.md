@@ -4,7 +4,7 @@ For basic Image Augmentation, I have used a single image of Cat to show various 
 
 In the end, I have used CIFAR-10 to generalize the model with some Image Augmented features and to check how the flow and generator works with model.
 
-Changes you have to made while using your own dataset:
+Changes you have to made while using your own dataset or image:
 
 1.You have to change the address of the file(image file or dataset directory) according to the location of dataset file you are using, I'm storing the data in the same folder that store notebook also.
 
