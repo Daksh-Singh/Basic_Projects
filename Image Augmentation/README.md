@@ -10,9 +10,10 @@ Changes you have to made while using your own dataset or image:
 
 2.Rename the variables according to your need and understanding.
 
-Some of the Augmentated :
+Some of the Augmentated Images are:
 
-![Shear Transformation](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Image%20Augmentation/Shear_Transformation.PNG)
+![Shear Transformation](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Image%20Augmentation/Shear_Transformation.PNG) 
 ![Shifting](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Image%20Augmentation/Shifting.PNG)
 ![Rotation](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Image%20Augmentation/Rotation.PNG)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shear Transformation &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  Shifting &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rotation
 
