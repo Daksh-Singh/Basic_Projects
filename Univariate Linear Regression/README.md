@@ -10,3 +10,8 @@ Changes you have to made while using your own dataset:
 
 All the Analysis is done regarding the dataset available, Some techniques and manipulations will be changed according to change in data.
 
+Some of the In-Notebook plots are:
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Cost_Surface](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Univariate%20Linear%20Regression/Cost_surface.PNG)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Gradient Descent Curve](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Univariate%20Linear%20Regression/Gradient_Descent.PNG)
+
