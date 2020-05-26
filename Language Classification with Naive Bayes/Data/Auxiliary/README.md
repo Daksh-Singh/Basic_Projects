@@ -1,1 +1,3 @@
+This contains the sub-words ordered list that I have made using Dictionaries to account the frequencies of sub-words and multiple iterations over this dictionary to increase the vocab of it. These sub-words are made from the train dataset.Sub-words concept sometimes proves fruitful to increase the accuracy and in my case it indeed improved the accuracy of my model.
 
+Another file conatins the preprocessor that I have used to clean and preprocess the data. It removes punctuation and digits from a string, and converts all characters to lowercase, it also clears all \n and hyphens from dataset sentences. 
