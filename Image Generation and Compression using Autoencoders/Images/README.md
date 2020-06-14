@@ -1,1 +1,1 @@
-
+This folder contains some of the images that will help the user to easily understand how Variational Autoencoders works for Image Compression and Generation. First the image is encoded then it will passed throug mean and standard variation vetcors, later on by passing through Latent space, it is decoded to get the compressed generated image.
