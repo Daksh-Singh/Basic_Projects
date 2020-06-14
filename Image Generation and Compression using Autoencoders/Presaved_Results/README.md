@@ -1,1 +1,1 @@
-
+This folder contains the intermediate generated images of the model which is trained for 950 epochs. Additionally it also contains a file that shows how the model is working on 2D data with trained on over 1000 epochs. This is very beneficial property of VAE, that they can be applied on 2D data as well and will perform good enough as they perform in 1D data.
