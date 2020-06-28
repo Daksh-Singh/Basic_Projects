@@ -8,4 +8,4 @@ Changes you have to made while using your own dataset or image:
 
 2.Rename the variables according to your need and understanding.
 
-Classification is done using the dataset availabel at the time of project
+Classification is done using the dataset availabel at the time of project.
