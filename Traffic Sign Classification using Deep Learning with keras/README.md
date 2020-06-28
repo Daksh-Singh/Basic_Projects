@@ -7,3 +7,5 @@ Changes you have to made while using your own dataset or image:
 1.You have to change the address of the file(csv file or dataset directory) according to the location of dataset file you are using, I'm using that is stored in the address specified in the notebook.
 
 2.Rename the variables according to your need and understanding.
+
+Classification is done using the dataset availabel
