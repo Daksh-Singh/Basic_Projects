@@ -10,4 +10,4 @@ Dendogram and the clusters made after classification:
 
 &nbsp; &nbsp; &nbsp;![Dendogram](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Hierarchical%20Clustering/Dendogram.PNG) 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Clusetrs](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Hierarchical%20Clustering/Clusters.PNG)
-no hello
+
