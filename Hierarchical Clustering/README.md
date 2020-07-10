@@ -1,5 +1,4 @@
 This Notebook contains the most basic form of Hierarchical Clustering. I have used only two columns from the dataset to cluster the customers. Using SciPy I have first plot Dendogram which can easily help to decide the number of clusters that we should prefer to use to solve the classification problem. So from Dendogram I got 3 as the number of proper clusters. Using Agglomerative Clustering Algorithm from the sklearn I cluster the data into 3 classes, by minimizing the variance and using the Euclidean distance. At last I plotted the clusters using matplotlib.
-hhh
 
 Changes you have to made while using your own dataset :
 
