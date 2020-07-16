@@ -1,0 +1,22 @@
+Start of logging..
+At epoch 00, learning rate changed to 0.0180
+At epoch 00, training accuracy: 0.824400, validation accuracy: 0.901At epoch 01, learning rate changed to 0.0162
+At epoch 01, training accuracy: 0.904700, validation accuracy: 0.913At epoch 02, learning rate changed to 0.0146
+At epoch 02, training accuracy: 0.913017, validation accuracy: 0.922At epoch 03, learning rate changed to 0.0131
+At epoch 03, training accuracy: 0.918167, validation accuracy: 0.923At epoch 04, learning rate changed to 0.0118
+At epoch 04, training accuracy: 0.923267, validation accuracy: 0.926At epoch 05, learning rate changed to 0.0106
+At epoch 05, training accuracy: 0.925483, validation accuracy: 0.928At epoch 06, learning rate changed to 0.0096
+At epoch 06, training accuracy: 0.928267, validation accuracy: 0.930At epoch 07, learning rate changed to 0.0086
+At epoch 07, training accuracy: 0.929967, validation accuracy: 0.929At epoch 08, learning rate changed to 0.0077
+At epoch 08, training accuracy: 0.931850, validation accuracy: 0.932At epoch 09, learning rate changed to 0.0070
+At epoch 09, training accuracy: 0.933833, validation accuracy: 0.934At epoch 10, learning rate changed to 0.0063
+At epoch 10, training accuracy: 0.935217, validation accuracy: 0.933At epoch 11, learning rate changed to 0.0056
+At epoch 11, training accuracy: 0.936233, validation accuracy: 0.934At epoch 12, learning rate changed to 0.0051
+At epoch 12, training accuracy: 0.937667, validation accuracy: 0.935At epoch 13, learning rate changed to 0.0046
+At epoch 13, training accuracy: 0.938183, validation accuracy: 0.935At epoch 14, learning rate changed to 0.0041
+At epoch 14, training accuracy: 0.938783, validation accuracy: 0.935At epoch 15, learning rate changed to 0.0037
+At epoch 15, training accuracy: 0.939567, validation accuracy: 0.936At epoch 16, learning rate changed to 0.0033
+At epoch 16, training accuracy: 0.939833, validation accuracy: 0.936At epoch 17, learning rate changed to 0.0030
+At epoch 17, training accuracy: 0.940650, validation accuracy: 0.936At epoch 18, learning rate changed to 0.0027
+At epoch 18, training accuracy: 0.941400, validation accuracy: 0.936At epoch 19, learning rate changed to 0.0024
+At epoch 19, training accuracy: 0.941367, validation accuracy: 0.938End of logging..
