@@ -14,7 +14,7 @@ Performance plots of both Custom Relu and General Relu:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Performance of model using Custom Layer
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![General Relu](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Creating%20Custom%20layers%20with%20Keras/General_Relu.PNG)
+&nbsp; ![General Relu](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Creating%20Custom%20layers%20with%20Keras/General_Relu.PNG)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Performance of model using Normal Layer
 
