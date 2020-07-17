@@ -6,7 +6,7 @@ Changes you have to made while using your own dataset:
 
 2.Rename the variables according to your need and understanding.
 
-All the exploratory Data Analysis is done regarding the dataset available, Some techniques and manipulations will be changed according to change in data.
+All the Analysis is done regarding the dataset available, Some techniques and manipulations will be changed according to change in data.
 
 Performance plots of both Custom Relu and General Relu:
 
