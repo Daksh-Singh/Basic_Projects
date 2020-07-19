@@ -1,1 +1,1 @@
-
+This folder contains the images that we will be used for the compression in the end of the project. From these images only we will extract the color space that contains millions of colors. So in the end we will use interactive session from Python to create a slider that will take the images from the directory and compress them according to the number of clusters provided, by default it is set to 16. Compression of images are done very well preserving the important colors of the images and discarding the extra shades
