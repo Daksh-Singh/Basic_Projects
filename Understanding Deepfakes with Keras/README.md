@@ -10,3 +10,4 @@ Changes you have to made while using your own dataset:
 
 All the procedure and techniques are done with the dataset available, so there may be some changes with the change in the dataset.
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![DCGAN output](https://github.com/Daksh-Singh/Basic_Projects/blob/master/Understanding%20Deepfakes%20with%20Keras/DCGAN_output.PNG)
